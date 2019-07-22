@@ -1,10 +1,6 @@
 package array;
 
-public class Bubble {
-
-	public Bubble() {
-		// TODO 自动生成的构造函数存根
-	}
+public class BubbleSort {
 
 	public static void main(String[] args) {
 		// 冒泡算法
@@ -23,7 +19,6 @@ public class Bubble {
 		for(int tmp:a) {
 			System.out.print(tmp+" ");
 		}
-
 	}
 
 }
