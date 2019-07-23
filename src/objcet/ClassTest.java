@@ -20,5 +20,6 @@ public class ClassTest {
 		ClassTest test1=new ClassTest();
 
 	}
+	Book book=Book.libraryBorrow();
 
 }
